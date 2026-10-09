@@ -1,0 +1,6 @@
+{
+  "name": "MedClaim - Medical Cost Submission Portal",
+  "description": "Enterprise medical expense claim submission system with automated GST & Grand Total verification, and instant XLSX and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
